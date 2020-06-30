@@ -1,6 +1,6 @@
 # typescript-lambda
 
-Write and deploy your AWS Lambda functions 100% in TypeScript
+A template helps you **Write and Deploy your AWS Lambda functions 100% in TypeScript**
 
 # write your code
 
